@@ -12,6 +12,7 @@ One key, both protocols: Claude Code connects via `ANTHROPIC_BASE_URL` + `ANTHRO
 - 接入模板 Config templates: [teapot-router-config](https://github.com/teapot-router/teapot-router-config) — Claude Code / OpenAI SDK 两行环境变量接入
 - 价格（免登录机读 JSON）: [teapotrouter.com/api/pricing](https://teapotrouter.com/api/pricing)
 - 文档 Docs: [teapotrouter.com/zh/docs](https://teapotrouter.com/zh/docs)（注册→建 Key→首次调用，全流程排错）
+- 服务状态 Status: [teapotrouter.com/zh/status](https://teapotrouter.com/zh/status)（实时探测网关/端点/官网，不编 uptime 历史）
 - 桌面端配套 Desktop companion: [Keyway](https://github.com/anmutu/keyway) — AI CLI 的本地网关（开源，Rust + Tauri）
 
 ## 语言落地页 / Multilingual landing repos
